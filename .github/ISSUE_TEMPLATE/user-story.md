@@ -1,10 +1,16 @@
----
-name: User Story
-about: This is our default user story template
-title: 'USER STORY: <TITLE>'
-labels: ''
-assignees: ''
+USER STORY:
+As a **user** I can **view the NavBar on every page** so that **quickly navigate the site**.
 
----
+ACCEPTANCE CRITERIA:
+- implement nav view across pages
+- update nav view based on login status
 
-As a **role** I can **capability** so that **received benefit**
+TASKS:
+- [x] build nav view
+- [x] make accessible across pages
+
+BUG TICKETS:
+- [] nav doesn't load in safari
+
+
+
