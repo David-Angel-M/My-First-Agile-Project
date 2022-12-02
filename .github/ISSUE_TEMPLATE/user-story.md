@@ -1,5 +1,5 @@
 USER STORY:
-As a **user** I can **view the NavBar on every page** so that **quickly navigate the site**.
+In order to **receive benefit** as a **role**, I can **goal / desire**
 
 # ACCEPTANCE CRITERIA
 - Acceptance criteria 1:
